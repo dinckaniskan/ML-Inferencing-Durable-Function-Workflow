@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        
+    "STORAGE_ACCOUNT_NAME": "",
+    "STORAGE_ACCOUNT_KEY": "",
+    "IMAGE_CONTAINER": "images"
+  }
+}
